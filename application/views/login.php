@@ -27,7 +27,7 @@
   <body class="hold-transition login-page">
     <div class="login-box">
       <div class="login-logo">
-        <!-- <img class="col-xs-offset-3 col-xs-6" src="assets/img/logo.png" alt=""> -->
+        <img class="col-xs-offset-3 col-xs-6" src="assets/img/logo.png" alt="">
         <a href="<?php echo base_url(); ?>assets/index2.html"><b>Admin Pegawai</b></a>
       </div>
 
